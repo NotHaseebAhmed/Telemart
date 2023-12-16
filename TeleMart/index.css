@@ -1,0 +1,635 @@
+*{
+    font-family: sans-serif;
+    
+     
+}
+#bgcolor{
+    background-color: rgb(240, 243, 248);
+} 
+#header{
+    background-color: #172237;
+    position: relative;
+}
+#header2{
+  background-color: #172237;
+  position: sticky;
+}
+#navpart1{
+  width: 94%;
+}
+#navpart2{
+  width: 94%;
+}
+ #cart{
+  margin-left: 55px;
+ }
+ 
+/* #headerlowp{
+  position: fixed;
+  background-color: #172237;
+  z-index: 1;
+  width: 100%;
+} */
+#searchdiv{
+    background-color: #f57224;
+    width: 60px;
+    height: 38px;
+    margin-top: 16px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 0px 3px 3px 0px;
+   
+}
+ 
+
+#sericon{
+    color: white;
+    font-size: 25px;
+    margin-top: 5px;
+  
+
+}
+.hide {
+  opacity:0;
+ 
+}
+.show {
+  opacity:1;
+
+}
+#logo{
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-left: -10px;
+}
+ #a1{
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    font-size: 13px;
+    font-weight: 100;
+    
+
+ }
+ #listno1{
+    list-style: none;
+    
+ }
+ #barndname{
+    font-size: 13px;
+    font-weight: 100;
+ }
+ #navbar{
+     
+    height: 35px;
+ }
+ 
+ #fowl{
+   width: 90%;
+   
+ }
+  
+ #unique{
+  background-color: white;
+   padding: 5px;
+   width: 33px;
+   height: 35px;
+   border-radius: 5px;
+   text-align: center;
+   margin-right: 5px;
+
+
+ }
+  
+ 
+  
+ .navlist{
+    color: #4b5563;
+    font-size: 11px;
+    width: 170px;
+    height: 30px;
+    margin-left: -40px;
+     
+ }
+  
+ #navlist{
+  color: #4b5563;
+  font-size: 12px;
+  margin-left: -35px;
+
+   
+}
+ 
+#myslider{
+  width: 64%;
+  height: 435px;
+  
+ 
+  
+}
+ 
+ #sidenav{
+    margin-top: 5px;
+   width: 14%;
+   height: 435px;
+    margin-left: -50px;
+    background-color: white;
+  
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+  #andlist{
+    margin-left: 32px;
+    margin-top: -23px;
+  }
+ 
+   
+  #text{
+   margin-left: 70px;
+   margin-top: -20px;
+  }
+  .owl-carousel {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 30px 0;
+  }
+  .owl-carousel .item {
+    font-size: 30px;
+    text-align: center;
+    padding: 40px 20px;
+    line-height: 2;
+    font-weight: 700;
+    background-color: #eee;
+  }
+  
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next {
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    background-color: #ccc;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translatey(-50%);
+  }
+  
+  .owl-nav button span {
+    font-size: 50px;
+    height: 100%;
+    display: block;
+    width: 100%;
+    background-color: #8faee6;
+    margin-top: -10px;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+    left: 0;
+  
+  }
+  .owl-carousel .owl-nav button.owl-next {
+    right: 0;
+ 
+
+  }
+  .owl-carousel .owl-nav {
+    margin: 0;
+  }
+  .btn-wrap {
+    text-align: center;
+    width: 100%;
+  }
+  button {
+    background-color: #ddd;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.5s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .owl-theme .owl-nav .disabled,
+  button.disabled {
+    opacity: 0.6;
+  }
+  #prname{
+    font-size: 12px;
+    font-weight: 720;
+  }
+  #prdetail{
+    color: #6b7280;
+    font-size: 12px;
+     
+     
+  }
+  #poptext{
+    margin-left: 100px;
+    margin-top: -80px;
+    width: 100px;
+     
+    
+  }
+  #footwear{
+    
+    width: 256px;
+    height: 250px;
+      
+   }
+   #footwear2{
+    
+    width: 256px;
+    height: 250px;
+    background-color: #f8f1e9;
+      
+   }
+   #footwear3{
+    
+    width: 256px;
+    height: 250px;
+    background-color: #ebf5f8;
+      
+   }
+   #footwear4{
+    
+    width: 256px;
+    height: 250px;
+    background-color: #e4eedf;
+      
+   }
+   #footwear5{
+    
+    width: 256px;
+    height: 250px;
+    background-color: #f5ebed;
+      
+   }
+   #footwear{
+    margin-left: 40px;
+    width: 252px;
+    height: 250px;
+    background-color: #f4f7e8;
+      
+   }
+   #mosthead{
+    margin-left: 40px;
+   }
+    
+  #inerdiv{
+    height: 125px;
+    width: 257px;
+    margin-left: -11px;
+    border: 2px solid white;
+  }
+  #pop1div{
+    border: 2px solid white;
+    width: 256px;
+    height: 250px;
+  }
+  #addimg{
+         width: 94%;
+  }
+  #shopnowimg{
+   object-position: center;
+  }
+  #brands{
+     margin-left: 30px;
+  }
+  
+  #brand1{
+    background-color: white;
+    margin: 7px;
+    width: 15%;
+     
+  }
+  #brand1:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  #brtag{
+    margin-top: -30px;
+  }
+   
+
+
+
+
+
+     /* child navbar */
+ #sidenavbar{
+position: absolute;
+   width: 50%;
+   height: 435px;
+   background-color: white;
+   z-index: 1;
+   margin-top: -470px;
+   margin-left: 212px;
+   display: none;
+   border-left: 2px solid black;
+ }
+ 
+ #sidenavbar2{
+  position: absolute;
+     width: 70%;
+     height: 435px;
+     background-color: white;
+     z-index: 1;
+     margin-top: -470px;
+     margin-left: 212px;
+     display: none;
+   }
+   #sidenavbar2 ul{
+    list-style: none;
+  }
+  #sidenavbar3{
+    position: absolute;
+       width: 70%;
+       height: 435px;
+       background-color: white;
+       z-index: 1;
+       margin-top: -470px;
+       margin-left: 212px;
+       display: none;
+     }
+     #sidenavbar4 ul{
+      list-style: none;
+    }
+    #sidenavbar4{
+      position: absolute;
+         width: 70%;
+         height: 435px;
+         background-color: white;
+         z-index: 1;
+         margin-top: -470px;
+         margin-left: 212px;
+         display: none;
+       }
+       #sidenavbar3 ul{
+        list-style: none;
+      }
+      #sidenavbar5{
+        position: absolute;
+           width: 30%;
+           height: 435px;
+           background-color: white;
+           z-index: 1;
+           margin-top: -470px;
+           margin-left: 212px;
+           display: none;
+          }
+ #sidenavbar5 ul{
+            list-style: none;
+          }
+          #Tvimg{
+            margin-left: 50px;
+          }
+ #sidenavbar6{
+            position: absolute;
+               width: 70%;
+               height: 470px;
+               background-color: white;
+               z-index: 1;
+               margin-top: -470px;
+               margin-left: 212px;
+               display: none;
+  }
+              #sidenavbar6 ul{
+                list-style: none;
+         }
+         #sidenavbar7{
+          position: absolute;
+             width: 70%;
+             height: 435px;
+             background-color: white;
+             z-index: 1;
+             margin-top: -470px;
+             margin-left: 212px;
+             display: none;
+}
+            #sidenavbar7 ul{
+              list-style: none;
+       }
+       #sidenavbar8{
+        position: absolute;
+           width: 70%;
+           height: 435px;
+           background-color: white;
+           z-index: 1;
+           margin-top: -470px;
+           margin-left: 212px;
+           display: none;
+}
+          #sidenavbar8 ul{
+            list-style: none;
+     }
+     #sidenavbar9{
+      position: absolute;
+         width: 70%;
+         height: 435px;
+         background-color: white;
+         z-index: 1;
+         margin-top: -470px;
+         margin-left: 212px;
+         display: none;
+}
+        #sidenavbar9 ul{
+          list-style: none;
+   }
+   #sidenavbar10{
+    position: absolute;
+       width: 70%;
+       height: 435px;
+       background-color: white;
+       z-index: 1;
+       margin-top: -470px;
+       margin-left: 212px;
+       display: none;
+}
+      #sidenavbar10 ul{
+        list-style: none;
+ }       
+ #sidenavbar11{
+  position: absolute;
+     width: 70%;
+     height: 435px;
+     background-color: white;
+     z-index: 1;
+     margin-top: -470px;
+     margin-left: 212px;
+     display: none;
+}
+    #sidenavbar11 ul{
+      list-style: none;
+}  
+#sidenavbar12{
+  position: absolute;
+     width: 70%;
+     height: 435px;
+     background-color: white;
+     z-index: 1;
+     margin-top: -470px;
+     margin-left: 212px;
+     display: none;
+}
+    #sidenavbar12 ul{
+      list-style: none;
+} 
+#sidenavbar13{
+  position: absolute;
+     width: 70%;
+     height: 435px;
+     background-color: white;
+     z-index: 1;
+     margin-top: -470px;
+     margin-left: 212px;
+     display: none;
+}
+    #sidenavbar13 ul{
+      list-style: none;
+}                  
+ #sidehead{
+   
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 25px;
+ }
+#sidenavbar ul{
+  list-style: none;
+}
+
+.navlist:hover{
+  background-color: #e9edf3;
+  
+  border-left: 2px solid black;
+}
+#childnav{
+  border: 0.2px solid rgb(241, 239, 239);
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ input1{
+  height: 35px;
+  margin-top: 5px;
+ }
+ #footerdes{
+  color: white;
+  font-size: 12px;
+ }
+ #foothead{
+  font-size: 14px;
+  color: #4b5563;
+  font-weight: 700;
+ }
+ #footer{
+  background-color: #172237;
+  height: 260px;
+ }
+ #innerfoot{
+  width: 94%;
+ }
+ #locdiv{
+  margin-top: 10px;
+  width: 110%;
+ 
+ }
+ #foot5div{
+  border-left: 2px solid white;
+ }
+ #nextbtn{
+  
+  font-size: 30px;
+ }
+ #prevbtn{
+ font-size: 30px;
+ margin-left: -110px;
+ }
+ #myID{
+width: 35px;
+background-color: white;
+height: 35px;
+border-radius: 5px;
+display: none;
+ }
+ #bar{
+margin-left: -20px;
+margin-top: -8px;
+ }
+ 
+
+ 
+ #flashhe{
+  margin-left: 55px;
+  font-weight: 520;
+
+ }
+ #product1owl{
+   width: 208px;
+   height: 375px;
+   
+ }
+  
+ #owlcarouseldiv{
+   display: flex;
+  width: 93%;
+ object-position: center;
+ background-color: white;
+ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ 
+   
+ 
+ }
+ #product1owl:hover{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+ #owlprodesc:hover{
+          color: rgb(0, 0, 255);
+ }
+ #owlprodesc{
+  font-size: 12px;
+  color: #4b5563;
+ }
+ #owlimgdiv{
+  width: 161px;
+ }
+  
+ #offtag{
+  border: 1px solid #cdd0d3;
+  color:#9ca3af;
+  font-size: 13px;
+  width: 60px;
+  font-weight: 600;
+   text-align: center;
+   padding: 3px;
+   border-radius: 3px;
+ }
+ #ratingowl{
+  font-size: 12px;
+color: white;
+background-color: #10b981;
+width: 50px;
+height: 25px;
+border-radius: 4px;
+ }
+ #price{
+  color:  #2f892f;
+  font-size: 12px;
+ }
+ #cancelprice{
+  color: red;
+  font-size: 12px;
+ }
+  
